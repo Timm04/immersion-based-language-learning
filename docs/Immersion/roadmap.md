@@ -29,9 +29,9 @@ Look [read more](types of immersion.md#solution-just-read-more). If you pause an
 ### When to stop using subtitles 
 
 For intermediates:
-Stop using subtitles if you already know most of the vocabulary and grammar you encounter in your listening material. You achieve this by [reading more](types of immersion.md#solution-just-read-more). Disable subtitles but keep them along you when listening so you can check yourself whenever you are unsure about what you heard. You will probably have to pause and relisten multiple times to a word. That's normal.
+Stop using subtitles if you already know most of the vocabulary and grammar you encounter in your listening material. You achieve this by [move on](How to start Immersion - Mining.md#7-move-on) and [reading more](types of immersion.md#solution-just-read-more). Disable subtitles but keep them along you when listening so you can check yourself whenever you are unsure about what you heard. You will probably have to pause and relisten multiple times to a word. That's normal.
 
-If you mine during this process more than you are actively training your listening ability i.e parsing the sounds then thats a sign to hold of listening without subtitles for now and get back to [reading more](types of immersion.md#solution-just-read-more) and subtitled listening immersion.
+If you mine during this process more than you are actively training your listening ability i.e parsing the sounds then thats a sign to hold of listening without subtitles for now and get back to [moving on](How to start Immersion - Mining.md#7-move-on) and [reading more](types of immersion.md#solution-just-read-more) and subtitled listening immersion.
 
 ## Passive vs. Active Listening
 
