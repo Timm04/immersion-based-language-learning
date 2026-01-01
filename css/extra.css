@@ -52,7 +52,12 @@
     max-width: 35%;
 }
 
-.plateau-img img{
+.plateau-img img {
+  width: 80%;
+  max-width: 1100px; /* adjust */
+}
+
+.miningoverview-img img {
   width: 80%;
   max-width: 1100px; /* adjust */
 }
