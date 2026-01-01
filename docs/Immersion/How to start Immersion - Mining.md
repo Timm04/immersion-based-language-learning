@@ -5,7 +5,7 @@
 Anki is a flashcard program that helps you spend more time on challenging material, and less on what you already know. You create in Anki flashcards and review them later. It uses a spaced repetition system to make you remember vasts amount of information in the long term as efficiently and underwhelming as possible. Anki does so by optimizing memory retention by showing you flashcards you created right before you forget them, maximizing retention with minimal study time. It supports powerful customization and rich media support, allowing for add-on functionality for advanced features and offline accessibility. It's extremely efficient for learning anything from languages to complex medical facts.
 
 !!! note "Installation"
-    For information how to install it refer to the official [website](https://apps.ankiweb.net/). 
+    For information how to install it refer to the official [website](https://apps.ankiweb.net/).  
     For [Android](https://play.google.com/store/apps/details?id=com.ichi2.anki) and [IOS](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387).
 
 ## Main tool for Immersion - Yomitan
