@@ -1,3 +1,8 @@
+<figure markdown="span", class="miningoverview-img">
+  [![miningoverviewimg](../assets/images/miningoverview.png)](../assets/images/miningoverview.png)
+  <figcaption style="margin-top: 0.25em; margin-bottom: 0.5em;">Flowchart of the mining process in immersion.</figcaption>
+</figure>
+
 #### An Overview of Mining
 
 You read through the sentence, check what you understand. If you there is something you don't know in a sentence or are unsure about then use Yomitan. After doing so reread the sentence, or the part that you didn't understand, with the information you looked up and see for yourself if you can understand the sentence now. 
@@ -34,7 +39,7 @@ If you think you know a word its most often better to check yourself once in a w
 !!! note "Disclaimer"
     This is only applicable to people who are more advanced. 
 
-We can rewrite the steps we have outlined for [the process of mining](../Mining/step2-read-the-sesentence.md) using the [ratio](core concepts of immersion.md#the-ratio) discussed earlier: 80-85% of the time immersing should optimally be spent in **pattern recognition** (understanding sentences immediately) while 15-20% of the time we should spend in **problem solving** (pausing and trying to understand a sentence thoroughly). 
+We can rewrite the steps we have outlined for [the process of mining](../Mining/step 1 read the sentence.md) using the [ratio](core concepts of immersion.md#the-ratio) discussed earlier: 80-85% of the time immersing should optimally be spent in **pattern recognition** (understanding sentences immediately) while 15-20% of the time we should spend in **problem solving** (pausing and trying to understand a sentence thoroughly). 
 
 This is the sweet spot where you flow, where you are immersed in whatever medium you are consuming at the moment without pausing i.e interrupting your immersion too often. Since its hard to come by a lot of sentences after each other where we get sentences like i+1, reaching the flow state is rare. But let's strive towards it!
 
