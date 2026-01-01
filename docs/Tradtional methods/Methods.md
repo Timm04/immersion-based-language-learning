@@ -1,7 +1,10 @@
 # The traditional method
 
-## Introduction
-In this section, I will cover different language learning methods. To highlight and illustrate the differences between each method, and which one you should ultimately choose to learn a language in the most efficient and enjoyable manner, let's first look at the method we're probably most familiar with and taught to us in schools; the traditional method. 
+## The traditional method
+
+![classroomimg](../assets/images/benkyou_classroom.png)
+
+In this section, we'll look at the method everybody is probably most familiar with; the traditional method.
 
 Traditional learning methods follow books usually made by **natives for foreigners**.
 These books come in a lot of different kinds, some may start off with basic statement sentences like "I am John" and gradually introduce new vocabulary and grammar points, ultimately allowing one to form more complex sentences. While some translate the target language to a language you understand literally and attach grammar notes alongside.
@@ -78,6 +81,4 @@ Most of the pros I mentioned only manifest themselves if one has the motivation 
 
 Someone who is interested in something will inherently pour in more effort into something than someone who is not interested in that same thing. They're less likely to give up and actually try to understand whatever interest they have. It lacks **personal interest driven material** to motivate students and real world exposure of the language as in material made **by natives for natives** to solidify itself as a language learning method justifiable to follow for years. Especially when there are different methods that solve these issues and make you achieve your goals faster, easier and more enjoyable.
 
-So what would be that faster, easier and more enjoyable way to learn a language? Is there a method that fulfils our criteria for a good method? 
-Yes there is! I'm referring to a method we all know and have been doing ever since we were born. It's a method we have been using so much we forgot it when we actually want to learn a language.
 

@@ -20,18 +20,18 @@ For the beginning, it's a good idea to make your immersion more reading focused 
 Generally this ratio changes a lot based on what you currently like to do. In the beginning you won't have much options in what you can immerse, which will make immersion less appealing, but your interest in learning your target language and the actual process of doing so should get you through the initial stage.
 
 ## Use subtitles
-If subtitles are available for your target language then use them. As a beginner always use subtitles and mine according to [When to mine and not mine](How to start Immersion - Mining.md#when-to-mine-and-not-mine). 
+If subtitles are available for your target language then use them. As a beginner always use subtitles and mine according to [the mining process](../Mining/step 5 mine it.md#when-to-mine-and-not-mine). 
 
 ## How to improve your listening as a beginner 
 
-Look [read more](types of immersion.md#solution-just-read-more). If you pause and try to relisten to things you heard and still don't understand them, don't be discouraged this is normal. Just [move on](How to start Immersion - Mining.md#7-move-on).
+Look [read more](types of immersion.md#solution-just-read-more). If you pause and try to relisten to things you heard and still don't understand them, don't be discouraged this is normal. Just [move on](../Mining/step 7 move on.md#move-on).
 
 ### When to stop using subtitles 
 
 For intermediates:
-Stop using subtitles if you already know most of the vocabulary and grammar you encounter in your listening material. You achieve this by [move on](How to start Immersion - Mining.md#7-move-on) and [reading more](types of immersion.md#solution-just-read-more). Disable subtitles but keep them along you when listening so you can check yourself whenever you are unsure about what you heard. You will probably have to pause and relisten multiple times to a word. That's normal.
+Stop using subtitles if you already know most of the vocabulary and grammar you encounter in your listening material. You achieve this by [move on](../Mining/step 7 move on.md#move-on) and [reading more](types of immersion.md#solution-just-read-more). Disable subtitles but keep them along you when listening so you can check yourself whenever you are unsure about what you heard. You will probably have to pause and relisten multiple times to a word. That's normal.
 
-If you mine during this process more than you are actively training your listening ability i.e parsing the sounds then thats a sign to hold of listening without subtitles for now and get back to [moving on](How to start Immersion - Mining.md#7-move-on) and [reading more](types of immersion.md#solution-just-read-more) and subtitled listening immersion.
+If you mine during this process more than you are actively training your listening ability i.e parsing the sounds then thats a sign to hold of listening without subtitles for now and get back to [moving on](../Mining/step 7 move on.md#move-on) and [reading more](types of immersion.md#solution-just-read-more) and subtitled listening immersion.
 
 ## Passive vs. Active Listening
 
@@ -51,20 +51,25 @@ Usually you won't need to do this after having done immersion for months because
 
 ## How to improve
 
-Challenge yourself. [The ratio](core concepts of immersion.md#the-ratio) we have discussed intends you to challenge yourself to improve. Meaning you need to expose yourself to things you don't know, go through [the process of mining](How to start Immersion - Mining.md#the-process-of-mining), do [Anki](Anki in Immersion.md#how-to-use-anki-for-immersion) to learn and remember things in the long term and most importantly do immersion where you are exposed to the things you learned in a more complex and nuanced way to build upon them thus acquiring them and repeating this whole process over and over. 
+Challenge yourself. [The ratio](core concepts of immersion.md#the-ratio) we have discussed intends you to challenge yourself to improve. Meaning you need to expose yourself to things you don't know, go through [the mining process](../Mining/step 1 read the sentence.md), do [Anki](Anki in Immersion.md#how-to-use-anki-for-immersion) to learn and remember things in the long term and most importantly do immersion where you are exposed to the things you learned in a more complex and nuanced way to build upon them thus acquiring them and repeating this whole process over and over. 
 
 More concretely this means referencing media recommendation sheets for your target language based on difficulty. Let say you read a book with difficulty 4/10 then try to find something that is one or two steps higher while letting your interest guide you.
 
 If the community of the language you are studying doesn't have these reference sheets, then you can do the following:
 
 For example for reading:
+
 1. Find something to read that interests you.
+
 2. Make sure it's something you can justifiably stomach based on:
-- Not too hard as in something like i+n, see [how i+1 is a motivating ideal but not reality](core concepts of immersion.md#how-i1-is-a-motivating-ideal-but-not-reality).
-- Such that you can [check your understanding and see what you can understand for yourself](How to start Immersion - Mining.md#2-check-your-understanding-and-see-what-you-can-understand-for-yourself).
+
+    - Not too hard as in something like i+n, see [how i+1 is a motivating ideal but not reality](core concepts of immersion.md#how-i1-is-a-motivating-ideal-but-not-reality).
+
+    - Such that you can [check your understanding and see what you can understand for yourself](../Mining/step 2 comprehension check.md#check-your-understanding-and-see-what-you-can-understand-for-yourself).
+
 3. If not then find and repeat the process with something else.
 
-If you think you found something that meets these criteria, then keep in mind [enjoyment as a metric for comprehension](core concepts of immersion.md#enjoyment-as-a-metric-for-comprehension) and start [the process of mining](How to start Immersion - Mining.md#the-process-of-mining).
+If you think you found something that meets these criteria, then keep in mind [enjoyment as a metric for comprehension](core concepts of immersion.md#enjoyment-as-a-metric-for-comprehension) and start [the mining process](../Mining/step 1 read the sentence.md).
 
 ## Why people plateau
 
@@ -92,14 +97,15 @@ If you do this you consistently you will progress insanely fast. People who do t
 Beginners that do this are usually very slow at first, painfully slow actually, breaking down everything to understand each piece before moving on. It's boring at first but eventually the most common words run out, same for grammar. This usually happens after multiple months if you are doing Anki every day and thinking about what you read.
 It's not really natural to analyze every sentence and break it down fully but there are people who reached a high level by following this approach.
 
-This approach would put you more in the problem solving mode in [the process of mining](How to start Immersion - Mining.md#the-process-of-mining) meaning you spent more time during the following steps:
-Everything after 3. Use Yomitan to look up what you don't know.
-4. Reread the sentence or the part where that word you just looked up appears in and try to understand the sentence.
-6. Spend more time on the sentence to understand what it's trying to say.
+This approach would put you more in the problem solving mode in [the mining process](../Mining/step 1 read the sentence.md) meaning you spent more time during the following steps:
+Everything after step 3 (Use Yomitan to look up what you don't know).
+Step 4 (Reread the sentence or the part where that word you just looked up appears in and try to understand the sentence).
+Step 6 (Spend more time on the sentence to understand what it's trying to say).
 
-This is per se not harmful, but rather draining, because you end up spending more time per sentence and eventually cross the rough 2 minute threshold of [how much time to spend per sentence.](How to start Immersion - Mining.md#how-much-time-to-spend-per-sentence) If you can motivate yourself through repeatedly doing this then great, but keep in mind [getting just the gist is fine](core concepts of immersion.md#getting-just-the-gist-is-fine). What matters is putting in the cognitive effort that is *trying* to understand as much as you can. How to do that is detailed [the process of mining](How to start Immersion - Mining.md#the-process-of-mining).
+This is per se not harmful, but rather draining, because you end up spending more time per sentence. If you can motivate yourself through repeatedly doing this then great, but keep in mind [getting just the gist is fine](core concepts of immersion.md#getting-just-the-gist-is-fine). What matters is putting in the cognitive effort that is *trying* to understand as much as you can. How to do that is detailed in [the mining process](../Mining/step 1 read the sentence.md).
 
 Generally don't get comfortable with reading just *for* the gist. What actually improves your language ability is putting effort into understand whatever you are consuming i.e breaking things down and analyzing it. The difference is in allowing yourself to get the gist sometimes but not make it become the baseline, don't settle for just the gist.
+
 You can *get by* with just the gist always but you'll miss a lot of small details and nuances which are crucial for actually getting the most out of your immersion time. These details only unravel themselves if you don't settle for just the gist but actually pay more attention and break things down. It can be not enjoyable but it's a more straight path to get most out of your immersion time.
 
 You can totally just read casually for the gist and break down things only when you really don't understand things, but if you want to get good fast then consistent, deep and focused reading is the way.

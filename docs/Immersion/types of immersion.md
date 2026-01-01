@@ -2,11 +2,11 @@
 
 Immersion can be either reading or listening. Some guides further subdivide these into 3 types:
 
-Type 1 (Free flow): Here you would consume media without looking things up, so no Yomitan nor making Anki flashcards. This is basically how we learned out native language.
-
-Type 2 (Casual Immersion): Here you consume media but *occasionally* look up things and mine them with Yomitan and make Anki flashcards.
-
-Type 3 (Hardcore Immersion): Here you consume media but look up *everything* you don't know and mine it.
+| Type | Name | Description |
+|------|------|-------------|
+| Type 1 | Free Flow | Consume media without looking things up (no Yomitan or Anki) |
+| Type 2 | Casual Immersion | Occasionally look up things and mine with Yomitan and Anki |
+| Type 3 | Hardcore Immersion | Look up everything you don't know and mine it |
 
 Note: I think it makes sense to mention terminology used by other immersion guides so you can read through these as well if you are interested.
 

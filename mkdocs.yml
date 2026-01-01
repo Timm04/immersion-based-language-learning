@@ -14,7 +14,16 @@ nav:
   - 'Immersion Guide':
     - Definition of Immersion: 'Definition of immersion/immersion definition.md'
     - Core Concepts of Immersion: 'Immersion/core concepts of immersion.md'
-    - A Guide for Mining: 'Immersion/How to start Immersion - Mining.md'
+    - 'Mining':
+      - Tools to start: 'Immersion/How to start Immersion - Mining.md'
+      - Read the sentence: 'Mining/step 1 read the sentence.md'
+      - Check your understanding: 'Mining/step 2 comprehension check.md'
+      - Use Yomitan: 'Mining/step 3 yomitan.md'
+      - Reread the sentence: 'Mining/step 4 reread sentence.md'
+      - Mining: 'Mining/step 5 mine it.md'
+      - Spend more time to understand: 'Mining/step 6 spending more time.md'
+      - Moving on after not understanding: 'Mining/step 7 move on.md'
+      - Overview: 'Immersion/mining notes.md'
     - Types of Immersion: 'Immersion/types of immersion.md'
     - Anki in Immersion: 'Immersion/Anki in Immersion.md'
     - Overall Insights on Immersion Media: 'Immersion/roadmap.md'
@@ -26,6 +35,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.footer
+    - content.tabs.link
     - palette.toggle
   palette:
     - scheme: default
@@ -45,14 +55,23 @@ markdown_extensions:
         permalink: true
         toc_depth: 2-4
   - admonition
+  - pymdownx.details
   - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.superfences
-  - admonition
 extra_css:
   - css/extra.css
 extra_javascript:
