@@ -38,11 +38,11 @@
 
 /* Increase content width */
 .md-grid {
-    max-width: 70rem;
+    max-width: 71rem;
 }
 
 .md-main__inner {
-    max-width: 70rem;
+    max-width: 71rem;
 }
 
 /* Center standalone images in content */
@@ -50,6 +50,11 @@
     display: block;
     margin: 1.25rem auto;
     max-width: 35%;
+}
+
+.plateau-img img{
+  width: 80%;
+  max-width: 1100px; /* adjust */
 }
 
 /* Larger images with specific class */
@@ -76,17 +81,4 @@
     display: flex;
     justify-content: center;
     margin: 1.5rem auto;
-}
-
-/* Larger text for collapsible note admonitions */
-.md-typeset .admonition.note {
-    font-size: 1rem;
-    padding: 1.25rem 1.5rem;
-    margin: 1.5rem 0;
-}
-
-.md-typeset .admonition.note p {
-    font-size: 1rem;
-    margin: 0.75rem 0;
-    line-height: 1.8;
 }

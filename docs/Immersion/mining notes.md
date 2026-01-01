@@ -35,7 +35,7 @@ Being confident is not bad it doesn't hurt being confident in your ability but i
 #### Which dictionaries to use
 
 To start out I recommend using a bilingual dictionary that uses definition in a language you understand, at best your native language. If available use multiple dictionaries to cover everything you might encounter immersing because some words are in some dictionaries while not in others.
-Different dictionaries will describe the same word differently will make understanding a new word easier for you, in case you don't understand a dictionary entry.
+Different dictionaries will describe the same word differently. This will make understanding a new word easier for you, in case you don't understand a dictionary entry.
 
 #### When to switch to monolingual dictionaries
 

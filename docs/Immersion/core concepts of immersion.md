@@ -87,7 +87,7 @@ Now try identifying all the word classes.
 If you immediately recognized that this sentence contains a non-finite progressive passive formed with the “act upon” + preposition construction, combined with the strictly intransitive main predicate “end up ~” and the negated past-tense auxiliary “didn’t,” then awesome, good job! But most native speakers couldn’t break it down like that.
 Does that mean they “don’t really know” English? Of course not. They don’t need to know this and be able to recall grammatical labels or analyze structures on the spot. They can use the language naturally and effortlessly because the patterns are already wired into their intuition through immersion. They just know it **intuitively**.
 
-That's why we actually having a bit more ambiguity is actually not something hurtful, but works in our favour. It only becomes hurtful when **you don't put in effort to understand every sentence you can** but more on this in section [Whitenoising](How to start Immersion - Mining.md#whitenoising).
+That's why we actually having a bit more ambiguity is actually not something hurtful, but works in our favour. It only becomes hurtful when **you don't put in effort to understand every sentence you can** but more on this in section [Whitenoising](mining notes.md#whitenoising).
 
 The umbrella term for this is us training our **pattern recognition skills** which builds fluency. Acquisition of a language happens through immersion and seeing things like words hundreds amount of times in different contexts to grasp its full nuanced meaning.
 

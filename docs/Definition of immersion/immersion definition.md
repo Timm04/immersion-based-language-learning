@@ -20,7 +20,7 @@ Recalling our three criteria for a good method:
 
 1. **You actually acquire the language to your desired level**: Since we are consuming content (books, shows, games, videos) made by natives for natives, we learn how the language is actually used with all it's nuances, slang and cultural context. You end up deciding what you consume yourself so immediately you acquire functional and attrition-proof because it's tied to meaningful content you enjoy.
 
-2. **The time it takes you to reach your goal**: [The power of Immersion](Introduction/problematic surround immersion.md#the-power-of-immersion)
+2. **The time it takes you to reach your goal**: [The power of Immersion](../Introduction/problematic surrounding immersion.md#the-power-of-immersion)
 
 3. **Enjoyment**: Follows from 1. Immersion by design requires the content you consume to be enjoyable for you. This creates a positive feedback loop: You enjoy the content or learning the language, which makes you consume more, which accelerates your acquisition, which allows you to enjoy even more content.
 

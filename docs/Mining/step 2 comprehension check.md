@@ -2,7 +2,7 @@
 
 ![miningimg](../assets/images/mining.png)
 
-To illustrate the process of how to mine, let's pretend we are learning a language called "Volga Tatar". I will use the same example sentence from [Core concepts of Immersion](core concepts of immersion.md#example-sentence). For clarity reasons, the sentence will not be written in complete Volga Tatar and instead in English and with one unknown word that is written in Volga Tatar.
+To illustrate the process of how to mine, let's pretend we are learning a language called "Volga Tatar". I will use the same example sentence from [core concepts of Immersion](../Immersion/core concepts of immersion.md#example-sentence). For clarity reasons, the sentence will not be written in complete Volga Tatar and instead in English and with one unknown word that is written in Volga Tatar.
 
 "While her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
@@ -44,7 +44,7 @@ To give you an idea how much understanding is enough and what to aim for, here a
 
 (In case you’re not a native speaker of English or don’t quite get it, yes, there are nonsense words in there. Those represent the uncomprehended 2%.)
 
-In our [ratio](core concepts of immersion.md#the-ratio) of 80-85% comprehension and 15-20% challenge, the range 80-85% is equivalent to around 95% comprehension. [Reference source](https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like)
+In our [ratio](../Immersion/core concepts of immersion.md#the-ratio) of 80-85% comprehension and 15-20% challenge, the range 80-85% is equivalent to around 95% comprehension. [Reference source](https://www.sinosplice.com/life/archives/2016/08/25/what-80-comprehension-feels-like)
 
 <div class="grid cards" markdown>
 

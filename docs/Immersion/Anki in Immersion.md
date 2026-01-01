@@ -32,7 +32,7 @@ Start with 10 new cards a day then keep applying the general rule above. At the 
 
 Take at absolute maximum 10 seconds per card while reviewing or doing new cards. If you can't remember something in 10 seconds, then most likely you won't remember it in 15, 30 seconds or even minutes. So fail the card if you can't remember it in that timeframe. 10 seconds is a maximum, try to aim for under 5 seconds.
 
-## How a card should look like
+## Choose an Anki Template
 
 Every card should contain the expression you are trying to learn on the front. On the back you should have the meaning, reading, an example sentence that uses that word and pronunciation. Pronunciation is most often an audio playing, a graph on how to pronounce it or both. This is called a vocab card.
 
@@ -43,9 +43,13 @@ On the front there should be no hints that can help you recall the back of the c
 
 There are also sentence cards where on the front you see the whole sentence with the word you are trying to memorize. These type of cards will be easier and your retention will be higher with them than with vocab cards. Reason being, with sentence cards your brain will most likely, unconsciously or not, use the context, length and or shape of the sentence and where the word comes up in the sentence or really any unique aspect of will give you clues to help you answer thus boosting your retention rate not based on the word but on outside factors.
 
+!!! Note "Additional material for Anki Templates"
+    These are many different template for different languages, but the ones for Japanese are the most customizable and easiest to install. I would recommend [Lapis](https://github.com/donkuri/lapis). You can it for your target language if you're not studying Japanese.
+
+
 ## How to make remembering easier in Anki
 
-A word should be mined according to the guidelines in [When to mine and not mine](How to start Immersion - Mining.md#when-to-mine-and-not-mine).
+A word should be mined according to the guidelines in [When to mine and not mine](../Mining/step 5 mine it.md#when-to-mine-and-not-mine).
 
 Don't mine everything. Mine only expressions that you understand within the context of the sentence. Context is key, since the greater impression an expression/context has on you, the easier you will remember a word in Anki.
 You can boost the impression of an expression by creating as many associations with the card you can, most prominently adding more meaningful pictures to the card. Meaningful here means anything that makes YOU remember the card more easily.

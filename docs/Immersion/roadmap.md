@@ -1,4 +1,6 @@
-# What you can expect from your first immersion experience.
+# What you can expect from your first immersion experience
+
+![booksumeruimg](../assets/images/book_umoreru.png)
 
 It will suck. You will spend a lot of time pondering on basic grammar patterns and easy words. Almost every sentence you encounter will have something new for you to analyze and think about and to mine, most often multiple things at once. This is normal! The key is here to trust the process based on what you have read so far in this guide. The more you read the easier it will become. Same goes for listening or speaking.
 
@@ -79,17 +81,22 @@ On the other hand people plateau because they immerse with media that is similar
 
 ## When to drop things you are immersing with
 
-If you are having fun, don't drop it.
+If you are having fun, then *generally* don't drop whatever you're immersing with. I'm saying generally here because there are times when you might want to switch to something more "efficient". Reference [the tradeoff between enjoyment and efficiency](types of immersion.md#a-weird-analogy)
 
-If you are not having fun, then that means one of two things:
-1. You understand it and it's genuinely uninteresting to you
-2. You don't understand it
+If you are not having fun with your immersion content, then that means one of two things:
 
-Drop whatever you are immersing with and switch to something easier. For reference see [enjoyment as a metric for comprehension](core concepts of immersion.md#enjoyment-as-a-metric-for-comprehension).
+1. You comprehend it but it's genuinely uninteresting to you
+
+2. You don't comprehend it so you have no fun.
+
+In any of these two cases I would recommend you to drop whatever you are immersing with and switch to something easier or something thats more fun. 
+For reference see [enjoyment as a metric for comprehension](core concepts of immersion.md#enjoyment-as-a-metric-for-comprehension).
 
 ## How to get the most out of immersion
 
 ### How hard should you pay attention when immersing
+
+![bookattentionimg](../assets/images/book_fukayomi.png)
 
 The more carefully you break down and fully try to understand **every part** of what you're immersing with before moving on the more you get out of it.
 If you do this you consistently you will progress insanely fast. People who do this usually have outstanding reading skills, passive vocab and listening comprehension, compared to people who just casually read through everything. 

@@ -2,7 +2,7 @@
 
 ![miningimg](../assets/images/mining.png)
 
-To illustrate the process of how to mine, let's pretend we are learning a language called "Volga Tatar". I will use the same example sentence from [Core concepts of Immersion](core concepts of immersion.md#example-sentence). For clarity reasons, the sentence will not be written in complete Volga Tatar and instead in English and with one unknown word that is written in Volga Tatar.
+To illustrate the process of how to mine, let's pretend we are learning a language called "Volga Tatar". I will use the same example sentence from [core concepts of Immersion](../Immersion/core concepts of immersion.md#example-sentence). For clarity reasons, the sentence will not be written in complete Volga Tatar and instead in English and with one unknown word that is written in Volga Tatar.
 
 "While her brother was quiet and reserved, Maria was incredibly сөйләмчәк, telling long, detailed stories at dinner, chatting easily with strangers, and always having an opinion to share." 
 
@@ -14,7 +14,11 @@ graph LR
 ```
 
 You don't understand the sentence what so ever even after having thought about it really hard.
-Move on. Don't mine it just move on. If you just don't understand a sentence even having looked up everything you can and thought about it for like 3 minutes, then you can just move on to the next sentence. You can do this because no almost no grammar pattern or word is used once. The sheer amount of immersion i.e exposure to the target language will balance out "skipping" one word or sentence. I should not even say skipping here since you didn't skip it you put in effort and just weren't able to understand it and thats part of the process, thats part of learning. That's why its not decremental to move on, because you will revisit whatever you didn't understand immediately sooner or later be it consciously when you remember from last time you saw what ever you didn't understand or unconsciously seeing that word again. Like said Immersion is not about understand everything every time 100%, its the consistency and effort that counts!
+Move on. Don't mine it just move on. If you just don't understand a sentence even having looked up everything you can and thought about it for like 3 minutes, then you can just move on to the next sentence. 
+
+You can do this because no almost no grammar pattern or word is used once. The sheer amount of immersion i.e exposure to the target language will balance out "skipping" one word or sentence. I should not even say skipping here since you didn't skip it, you put in effort and just weren't able to understand it this time and thats part of the process, thats part of learning. 
+
+That's why its not detrimental to move on, because you will revisit whatever you "missed out on" sooner or later be it consciously when you remember from last time you saw what ever you didn't understand or unconsciously seeing that expression again. Like said Immersion is not about understand everything every time 100%, its the consistency and effort to understand everything that counts!
 
 #### Last resort
 
