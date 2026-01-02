@@ -4,7 +4,7 @@
 
 It will suck. You will spend a lot of time pondering on basic grammar patterns and easy words. Almost every sentence you encounter will have something new for you to analyze and think about and to mine, most often multiple things at once. This is normal! The key is here to trust the process based on what you have read so far in this guide. The more you read the easier it will become. Same goes for listening or speaking.
 
-Similarly, the first time you sit down to watch a show in your target language will be probably be more difficult than reading. If you are not rewatching the show, then you have to focus more on whats going on in a scene, people are talking fast and you just can't keep up or properly parse what you are hearing yet. But by repeatedly doing it while also doing reading your listening ability will improve. 
+Similarly, the first time you sit down to watch a show in your target language will probably be more difficult than reading. If you are not rewatching, then you have to focus more on whats going on in a scene, people are talking fast and you just can't keep up or properly parse what you are hearing yet. But by repeatedly doing it while also doing reading your listening ability will improve. 
 
 # How to make Immersion easier
 
@@ -12,14 +12,14 @@ Similarly, the first time you sit down to watch a show in your target language w
 By doing so you can reread or rewatch media and have an easier time picking up your target language because you're already familiar with the story and can now see how your target language expresses something you are already familiar with. This will be sort of like mapping what you already know to something new i.e your target language. 
 
 ## Choosing immersion material
-The more auditory and or visual aspects a piece of media provides the more suited it is to immerse with. With immersion you basically try to use every piece of context to infer what you don't understand, this includes audio and seeing something. Especially shows are great for this because you see whats going on, you have acting or characters you can see and music you hear as well as sound effects. All of these add to the *immersion* of your immersion, and help you make scenes more impactful for you to remember some words easier.
+The more auditory and or visual aspects a piece of media provides the more suited it is to immerse with. With immersion you basically try to use every piece of context to infer what you don't understand, this includes audio and seeing something. Especially shows are great for this because you see whats going on, you have acting or characters you can see and music you hear as well as sound effects. All of these add to the *immersion* of your immersion, and help you make scenes more impactful for you to remember more words easier.
 
-There are many different kinds of native media you can use for your immersion. A few popular ones include: Video platforms like Youtube, streaming websites like Netflix, books, novels and comics, podcasts, music and video games. Like discussed in earlier sections, the best thing you can spend your time with to learn is 80-85% enjoyment/comprehension and 15-20% challenging, basically something you can stomach and don't mind spending a lots of time on.
+There are many different kinds of native media you can use for your immersion. A few popular ones include: Video platforms like Youtube, streaming websites like Netflix, books, novels and comics, podcasts, music and video games. Like discussed in earlier sections, the best thing you can spend your time with to improve is something 80-85% enjoyable/comprehensible and 15-20% challenging, basically something you can stomach and don't mind spending a lots of time on.
 
 ## How much should you be reading and listening
 For the beginning, it's a good idea to make your immersion more reading focused so you can quickly learn more vocabulary to get the most out of your listening as well. Aim for a 65-70% reading-based and 30-35% listening-based split. For more in-depth look in [Why listening is hard](types of immersion.md#why-listening-is-hard).
 
-Generally this ratio changes a lot based on what you currently like to do. In the beginning you won't have much options in what you can immerse, which will make immersion less appealing, but your interest in learning your target language and the actual process of doing so should get you through the initial stage.
+Generally this ratio changes a lot based on what you currently like to do. In the beginning you won't have many options in what you can immerse with, which can make immersion less appealing. However, your interest in learning your target language and the actual process of doing so should carry you through the initial stage.
 
 ## Use subtitles
 If subtitles are available for your target language then use them. As a beginner always use subtitles and mine according to [the mining process](../Mining/step 5 mine it.md#when-to-mine-and-not-mine). 
@@ -33,12 +33,12 @@ Look [read more](types of immersion.md#solution-just-read-more). If you pause an
 For intermediates:
 Stop using subtitles if you already know most of the vocabulary and grammar you encounter in your listening material. You achieve this by [move on](../Mining/step 7 move on.md#move-on) and [reading more](types of immersion.md#solution-just-read-more). Disable subtitles but keep them along you when listening so you can check yourself whenever you are unsure about what you heard. You will probably have to pause and relisten multiple times to a word. That's normal.
 
-If you mine during this process more than you are actively training your listening ability i.e parsing the sounds then thats a sign to hold of listening without subtitles for now and get back to [moving on](../Mining/step 7 move on.md#move-on) and [reading more](types of immersion.md#solution-just-read-more) and subtitled listening immersion.
+If, during this process, you are mining more than you are actively training your listening ability i.e parsing the sounds, then thats a sign to hold off listening without subtitles for now and instead return to [moving on](../Mining/step 7 move on.md#move-on) and [reading more](types of immersion.md#solution-just-read-more) and subtitled listening immersion.
 
 ## Passive vs. Active Listening
 
 Passive listening is listening to your target language without paying active attention to what you're listening to. You are not following the story or thinking about it, you are just taking in the sounds while doing something else actively like cleaning or driving. It's not entirely clear to what extent passive listening helps you learn language.
-Even listing to audio at very low comprehension but still paying attention somewhat when doing a different task has unclear benefits. There are people who did a lot of passive listening and or very low comprehension audio based listening when starting out and they feel like that helped them to get used to listening itself while some say it didn't help them. 
+Even listing to audio at very low comprehension but still paying attention somewhat when doing a different task has unclear benefits. There are people who did a lot of passive listening and or very low comprehension audio based listening when starting out and they feel like that helped them to get used to listening itself while some say it didn't help them at all. 
 
 However it is pretty clear that active listening does helps. Active listening requires you to focus on what is being said and to properly understand what is going on. Due to insufficient evidence we drop t he argument and conclude you can do passive listening if you like to, but you probably shouldn't expect to get massive benefits from it.
 

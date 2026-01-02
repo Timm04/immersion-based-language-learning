@@ -2,7 +2,7 @@
 
 ## When to start Immersion
 
-Because of this guides general approach I cannot pin point a specific point when you start Immersion at. Even for specific language it would be still hard to find and define a specific level of proficiency that is best suited to dive into easy native material. As such I can only say **you start when you feel ready.** 
+Because of this guide’s general approach, I can’t pinpoint a specific level at which you can or should start immersion. Even for a specific language, it is still hard to identify and define a level of proficiency that is best suited for diving into easy native material. As such, I can only say: **You start when you feel ready**.
 
 This could be after having learned the most frequent 1000 words in a language and having read through basic grammar guides. This could be done after having learned your target language to some extent in school or in language classes and you feel comfortable enough to engage with native material. This could be done after having gone through courses on websites where you learn basic phrases, grammar and vocabulary. All what matters is you having a **decent foundation in the target language**.
 
