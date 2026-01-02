@@ -102,6 +102,10 @@ Building upon [Cost of "optimal" methods](#cost-of-optimal-methods), the only cr
 
     The bare bones are Anki, Yomitan and a basic card template. You may adjust them with some starter quality of life settings, but don't obsess over optimization. I don't want to see you immersing in the Anki manual and SRS-addons till 3am.
 
+!!! success "Being carefree"
+
+    If you can just enjoy your media you are immersing with and stop being pedantic about method, optimization and **progress**, you win. It's mostly mental.
+
 # How to make Immersion easier
 
 ## Choose something you are already familiar with

@@ -99,7 +99,7 @@ Everybody has their own motivation and interests out of which their own personal
 So logically you can't really compare yourself to others, yet there are people who can't help themselves but indulge in this act once in a while nonetheless and most often in a self destructive manner. 
 They compare reading speeds and get discouraged by the progress of others. They think they're doing something wrong and start to point fingers inwards and blame themselves. They become discouraged because they are not reading for 15 hours straight or are learning 100 words every day. 
 
-What these people don't realize is that everyone is different and has their own lifestyle and path. One of the most harmful ways to view language learning is as comparison or competition. 
+What these people don't realize is that these massive numbers are from a small minority and that to begin with everyone is different and has their own lifestyle and path. One of the most harmful ways to view language learning is as comparison or competition. 
 
 Somebody that manages "only" one hour a day because of their schedule is somebody's else's 15 hours a day. As long you are consistent putting in the effort you can manage you are going to achieve your goals. 
 

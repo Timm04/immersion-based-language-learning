@@ -64,3 +64,7 @@ For example if you mine 100 words today and do 10 new cards in Anki then you got
 - If you know a card already then you can suspend it. Chances are high you acquired it already through immersion.
 - Try maintaining a backlog so you don't run out of Anki cards. This comes in handy when you don't have time to immerse for a day.
 - Sort your new cards by frequency so you will always learn the most common used word out of your backlog. This makes sure you'll benefit faster from a newly learnt word.
+
+## Leeches
+
+Suspend or delete them. You'll probably encounter that expression through immersion again and again.
