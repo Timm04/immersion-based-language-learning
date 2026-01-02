@@ -27,7 +27,7 @@ Think of this guide as a paint brush. You use this paint brush (method and minds
 This guide is born from my own journey and the experience of many others learning Japanese through immersion. The contents are the organization of years of community advice, evolving methodology and countless conversations with learners of all kinds. Therefore, what follows is not derived from empirical study but from trial and error, and lived experience of what *seems* to work and what does not.
 
 
-My foremost thanks go to 天・Ten (Heaven) for providing me with the opportunity to write this guide and for hosting it on their website dedicated to Japanese immersion learning. Without them nothing of this would have been possible. I would likely have never returned back the Japanese immersion community and met so many incredible people within it. 
+My foremost thanks go to [天・Ten (Heaven)](https://www.ten.guide/) for providing me with the opportunity to write this guide and for hosting it on their website dedicated to Japanese immersion learning. Without them nothing of this would have been possible. I would likely have never returned back the Japanese immersion community and met so many incredible people within it. 
 
 Special thanks also to David, who approached me for guidance. By helping him with immersion, I found myself articulating the very ideas that form this guide. In a way, David helped me write this guide unconsciously. 
 
