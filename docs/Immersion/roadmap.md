@@ -189,6 +189,10 @@ For example for reading:
 
 If you think you found something that meets these criteria, then keep in mind [enjoyment as a metric for comprehension](core concepts of immersion.md#enjoyment-as-a-metric-for-comprehension) and start [the mining process](../Mining/step 1 read the sentence.md).
 
+### Reading faster
+
+Don't focus on reading speed, focus on comprehension. Reading speed reflects how much you comprehend and will naturally improve the more you comprehend. You focus on comprehension by [paying more attention while reading](#how-hard-should-you-pay-attention-when-immersing) and [reading more](types of immersion.md#solution-just-read-more).
+
 ---
 
 ## Why people plateau
