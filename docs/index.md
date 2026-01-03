@@ -1,6 +1,6 @@
 # Home
 
-## An optimized and healthier approach to learning languages through Immersion
+## An optimized and healthier approach to language learning through Immersion
 
 Welcome to Immersion-Based Language Learning, a website made for people interested in learning languages through immersion.
 
