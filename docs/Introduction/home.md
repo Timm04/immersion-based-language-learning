@@ -2,7 +2,7 @@
 
 ## General immersion theory
 
-Welcome to General Immersion Language Learning, a website made for people interested in learning languages through immersion.
+Welcome to Immersion-Based Language Learning, a website made for people interested in learning languages through immersion.
 
 ---
 
@@ -25,7 +25,6 @@ Think of this guide as a paint brush. You use this paint brush (method and minds
 ## <span style="color: var(--md-typeset-a-color);">Acknowledgements</span>
 
 This guide is born from my own journey and the experience of many others learning Japanese through immersion. The contents are the organization of years of community advice, evolving methodology and countless conversations with learners of all kinds. Therefore, what follows is not derived from empirical study but from trial and error, and lived experience of what *seems* to work and what does not.
-
 
 My foremost thanks go to [天・Ten (Heaven)](https://www.ten.guide/) for providing me with the opportunity to write this guide and for hosting it on their website dedicated to Japanese immersion learning. Without them nothing of this would have been possible. I would likely have never returned back the Japanese immersion community and met so many incredible people within it. 
 
