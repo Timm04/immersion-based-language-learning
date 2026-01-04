@@ -14,7 +14,11 @@ Although this doesn't mean you should learn tons of vocab as in in the thousands
     
     Depending on your target language you might need to learn the writing system or parts of it first before going through a vocab deck in Anki.
 
-!!! success "Start when"
+!!! failure "The wrong way"
+
+    Memorizing and learning all the grammar of your target language and thousands upon thousands of vocab before actually immersing for the first time.
+
+!!! success "The right way - You start when"
     
     - You know around 1000-1500 words. You could start off with less than 1k words as well but I wouldn't recommend it.
 
