@@ -25,7 +25,11 @@ That's why its not detrimental to move on, because you will revisit whatever you
 
 !!! warning "When this becomes a problem"
 
-    If you happen to be here very often, then this might be a sign that whatever you're immersing with might be too hard for you right now. If you keep on immersing with something that is too hard for you, then you run danger of wasting time and burning out. Being here is the exception not the norm. Reference [when to drop things you are immersing with](../Immersion/roadmap.md#when-to-drop-things-you-are-immersing-with)
+    If you happen to be here very often, then this might be a sign that whatever you're immersing with might be too hard for you right now. If you keep on immersing with something that is too hard for you, then you run danger of wasting time and burning out. Being here is the exception not the norm. 
+    
+    [:octicons-arrow-right-24: When to drop things you are immersing with](../Immersion/roadmap.md#when-to-drop-things-you-are-immersing-with)
+
+    [:octicons-arrow-right-24: How to get the most out of Immersion](../Immersion/roadmap.md#how-to-get-the-most-out-of-immersion)
 
 
 You can move on after you have gone through steps 1-5 (reading the sentence -> checking comprehension -> Looking up with Yomitan -> rereading sentence -> checking comprehension), meaning you:

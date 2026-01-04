@@ -83,14 +83,18 @@ While for the i+n sentence, you probably felt overwhelmed and lost. Even a dicti
 
 ---
 
-## Getting just the gist is fine
+## Getting just the gist is fine if in moderation
 
-What I want you to take away from this little exercise is that **immersion is not about comprehending every sentence perfectly. It's also fine to just get the gist sometimes**. It's fine to not understand every sentence perfectly every single time, what matters is **putting in the effort into trying to understand a sentence**. The effort is you looking up words using a dictionary and putting in cognitive effort to infer and deduce meaning based on the given information. You must learn to be comfortable not knowing everything in a sentence every time and just absorb whatever you understood. In a way doing immersion is **tolerating this specific kind of ambiguity**.
+What I want you to take away from this little exercise is that **immersion is not about comprehending every sentence perfectly. It's also fine to just get the gist sometimes**. It's fine to not understand every sentence perfectly every single time, what matters is **putting in the effort into trying to understand a sentence completely**. The effort is you looking up words using a dictionary and putting in cognitive effort to infer and deduce meaning based on the given information. You must learn to be comfortable not knowing everything in a sentence every time and just absorb whatever you understood. In a way doing immersion is **tolerating this specific kind of ambiguity**. 
 
 Note:
 A tool helping you to do put in the effort to understand a sentence will be introduced later. As well as how to actually deal with ambiguity and how do you know when you got the gist will be discussed in later sections.
 
-For now think of it as food. You don't need a perfectly scientifically mutinously crafted gourmet meal every time (i+1). What you generally need is a nutritious homemade meal that makes you full (a sentence you put effort into to understand). Sometimes you have a snack (catching just the gist). Sometimes you try a new spice you're unsure about (an expression you look up using the aforementioned tool). Bottom line is it all nourishes you. It all helps you acquire the target language.
+For now think of it as food. You don't need a perfectly scientifically mutinously crafted gourmet meal every time (i+1). What you generally need is a nutritious homemade meal that makes you full (a sentence you put effort into to understand completely). Sometimes you have a snack (catching just the gist). Sometimes you try a new spice you're unsure about (an expression you look up using the aforementioned tool). Bottom line is it all nourishes you. It all helps you acquire the target language.
+
+!!! warning "Snacking in moderation"
+
+    Don't get comfortable with just getting the snack (catching just the gist). Aim to understand a sentence [as much as you can and pay attention](roadmap.md#how-to-get-the-most-out-of-immersion).
 
 ---
 

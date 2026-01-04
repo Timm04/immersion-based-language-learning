@@ -16,7 +16,7 @@ Immersion encourages optimization. This is good but it gets to a point of people
 
 > "Efficiency is the absolute good."
 
-This makes learners chase the "optimal path". Be it optimizing their Anki's SRS, creating better Anki templates or smoother mining workflows. All certainly have their raison d'etre but often at the expense of **time**, **enjoyment** and **sanity**. This is all flawed, you could even say bullshit. 
+This makes learners chase the "optimal path". Be it optimizing their Anki's SRS, creating better Anki templates or smoother mining workflows. All certainly have their raison d'etre but often at the expense of **time**, **enjoyment** and **sanity**. This is all flawed.
 
 !!! warning "What do you actually gain from it?"
 
@@ -38,7 +38,7 @@ All of these components are at inter play with each other all the time. They fee
 
 ### <span style="color: var(--md-typeset-a-color);">Input is the reward, not the means</span>
 
-There are people who do immersion and just see immersing as in reading or listening as just another step towards fluency. But you have to remember that immersing in itself is your primary reward. You have to [celebrate yourself](routine manager.md#celebrate-yourself). The pleasure of enjoying a good story in your target language you couldn't have otherwise, the connection and dynamic between character, the really cool and impactful scenes, the moment of understanding something new, all of these are **Immediate Utility** that makes this whole endeavor worthwhile.
+There are people who do immersion and just see immersing as in reading or listening as just another step towards fluency. But you have to remember that immersing in itself is your primary reward. You have to [celebrate yourself](routine manager.md#celebrate-yourself). The pleasure of enjoying a good story in your target language you couldn't have otherwise, the connection and dynamic between characters, the really cool and impactful scenes, the moment of understanding something new, all of these are **Immediate Utility** that makes this whole endeavor worthwhile.
 
 Treating immersing in itself, treating enjoyable input as a mere means to learn some vocabulary is detrimental. Referring back to the paint brush analogy from [home](../index.md):
 
@@ -48,7 +48,15 @@ If you only focus on grinding color theory and picking the right paint you never
 
 !!! warning "Value the experience"
 
-    Remember you picked up this "paint brush" (the immersion method) to create your own beautiful "painting" (your experience with the language). Don't get lost in the technical mixing of colors that you forget to paint.
+    Remember you picked up this "paint brush" (the immersion method) to create your own beautiful "painting" (your experience with the language). Don't get lost in the technical mixing of colors that you forget to paint. **Don't over optimize the process at the expense of experience.**
+
+!!! failure "What does "getting lost in the technical mixing of colors" mean?"
+    
+    Things like "optimizing" your Anki SRS or "improving" your Anki template's design or JavaScript more than you need to. Basically tinkering over immersing.
+
+!!! success "How to prevent this?"
+
+    Just go immerse.
 
 ### <span style="color: var(--md-typeset-a-color);">Cost of "optimal" methods</span>
 
@@ -56,11 +64,11 @@ Let's compare two different activities:
 
 === "Reading a book"
 
-    This can create positive **Immediate Utility** for learners. The cognitive cost varies from low to moderate and it fuels your motivation. It directly adds to the TLU model *while* you are reading a book, and it builds skills for the future as in improving your comprehension.
+    For example you feel like you are learning as you progress through each sentence learning more and more about your target language. You're making progress. You have fun and what you are immersing in is interesting to you. This is positive **Immediate Utility**. You maybe breezing through and feel challenged at times but its not too hard for you. This a cognitive cost varying from low. All of this fuels your motivation. It directly adds to the TLU model *while* you are reading a book, and it builds skills for the future as in improving your comprehension.
 
 === "Anki"
 
-    This can create negative **Immediate Utility** like boredom or frustration for learners. It's taxing on your mind (**Cognitive cost**) as it drains willpower. The value you get out is promised in the long term utility like better retention or knowing more vocab.
+    For example you feel bored or frustrated doing Anki. This is negative **Immediate Utility**. It's taxing on your mind (**Cognitive cost**) as it drains willpower. The value you get out is promised in the long term utility like better retention or knowing more vocab.
 
 !!! question "Does the long term utility gained from doing Anki justify its cognitive cost?"
 
@@ -68,15 +76,19 @@ Let's compare two different activities:
 
     For others, doing Anki is an energy draining torture needed to engage with activities like "Reading a book".
 
-There is no universal optimum. Even if a method is 100% "efficient" at teaching the most common 1000-1500 words but alienates like 20% of learners making them quit after a month is on a systematic level inefficient.
+There is no universal optimum. Even if a method is 100% "efficient" at teaching the most common 1000-1500 words but alienates like 20% of learners making them quit after a month is on a systematic level inefficient. 
 
-We can denote this using the following formula:
+:octicons-arrow-right-24: This is why you **have to** figure out what works for you and what you can [sustain](#sustainability-is-only-the-meaningful-metric).
 
-$$
-\Delta(\text{long-term utility}) - \Delta(\text{cognitive cost}) - \Delta(\text{motivation loss}) > 0
-$$
+!!! note "We can denote the TLU model using the following formula"
 
-The **Δ(Long-Term Utility)** must be greater than the **Δ(Cognitive Cost)** and **Δ(Motivation Loss)**. In layman's terms: The value you get out of immersing with something like getting better at comprehension, which also leads to more choice for content to immerse with, that value must be more important **to you** than the potential negative aspects, like stress or the time you invest to get there, affecting you. You must be able to stomach what you  immerse in otherwise the stress becomes to much and your motivation depletes.
+    <div style="padding: 0.15rem 0 0.15rem 0;">
+    $$
+    \Large \Delta(\text{long-term utility}) - \Delta(\text{cognitive cost}) - \Delta(\text{motivation loss}) > 0
+    $$
+    </div>
+
+    The **Δ(Long-Term Utility)** must be greater than the **Δ(Cognitive Cost)** and **Δ(Motivation Loss)**. In layman's terms: The value you get out of immersing with something like getting better at comprehension, which also leads to more choice for content to immerse with, that value must be more important **to you** than the potential negative aspects, like stress or the time you invest to get there, affecting you. You must be able to stomach what you  immerse in otherwise the stress becomes to much and your motivation depletes.
 
 ### <span style="color: var(--md-typeset-a-color);">Sustainability is only the meaningful metric</span>
 
@@ -88,9 +100,9 @@ Building upon [Cost of "optimal" methods](#cost-of-optimal-methods), the only cr
 
 - If watching a difficult show without subtitles would make you improve but you are barely keeping up, feeling anxious, stressed or dumb then forcing yourself to do it is **less efficient** than watching something more enjoyable and easier with tools that let you enjoy the plot. 
 
-- If reading a difficult book you are interested in but spend more time digging through different dictionaries to understand just one word more than actually engaging with the story then this is ***inefficient**. Might as well be a signal that whatever you are immersing with is too hard.
+- If reading a difficult book you are interested in but spend more time digging through different dictionaries to understand just one word more than actually engaging with the story then this is **inefficient**. Might as well be a signal that whatever you are immersing in is too hard.
 
-- If reading something you are interested in with a dictionary is slow but captivating to you, then it is **wildly efficient**. It builds skills and reinforces the habit that you will keep going.
+- If reading something you are interested in with a dictionary is slow but captivating to you, then it is **wildly efficient**. You can sustain it since it captivates you and you are making progress. It builds skills and reinforces the habit that you will keep going.
 
 ### <span style="color: var(--md-typeset-a-color);">Things to keep in mind</span>
 
@@ -105,7 +117,7 @@ You need to find out what you can sustain i.e stomach on your day to day basis t
 
     The bare bones are Anki, Yomitan and a basic card template. You may adjust them with some starter quality of life settings, but don't obsess over optimization. I don't want to see you immersing in the Anki manual and SRS-addons till 3am.
 
-!!! success "Being carefree"
+!!! success "Being carefree - Just immerse"
 
     If you can just enjoy your media you are immersing with and stop being pedantic about method, optimization and **progress**, you win. It's mostly mental.
 
@@ -119,7 +131,9 @@ By doing so you can reread or rewatch media and have an easier time picking up y
 ---
 
 ## Choosing immersion material
-The more auditory and or visual aspects a piece of media provides the more suited it is to immerse with. With immersion you basically try to use every piece of context to infer what you don't understand, this includes audio and seeing something. Especially shows are great for this because you see whats going on, you have acting or characters you can see and music you hear as well as sound effects. All of these add to the *immersion* of your immersion, and help you make scenes more impactful for you to remember more words easier.
+The more auditory and or visual aspects a piece of media provides the more suited it is to immerse with. With immersion you basically try to use every piece of context to infer what you don't understand, this also includes audio and seeing something. Especially shows are great for this because you see whats going on, you have things like acting or characters you can see and music you hear as well as sound effects.
+ 
+**All of these add to the *immersion* of your immersion**, and help you make scenes more impactful for you to remember more words easier.
 
 There are many different kinds of native media you can use for your immersion. A few popular ones include: Video platforms like Youtube, streaming websites like Netflix, books, novels and comics, podcasts, music and video games. Like discussed in earlier sections, the best thing you can spend your time with to improve is something 80-85% enjoyable/comprehensible and 15-20% challenging, basically something you can stomach and don't mind spending a lots of time on.
 
@@ -147,7 +161,7 @@ Look [read more](types of immersion.md#solution-just-read-more). If you pause an
 
     This section is targeted at "intermediate" learners.
 
-Stop using subtitles if you already know most of the vocabulary and grammar you encounter in your listening material. You achieve this by [move on](../Mining/step 7 move on.md#move-on) and [reading more](types of immersion.md#solution-just-read-more). Disable subtitles but keep them along you when listening so you can check yourself whenever you are unsure about what you heard. You will probably have to pause and relisten multiple times to a word. That's normal.
+Stop using subtitles if you already know most of the vocabulary and grammar you encounter in your listening material. You achieve this by [reading more](types of immersion.md#solution-just-read-more). Disable subtitles but keep them along you when listening so you can check yourself whenever you are unsure about what you heard. You will probably have to pause and relisten multiple times to a word. That's normal.
 
 If, during this process, you are mining more than you are actively training your listening ability i.e parsing the sounds, then thats a sign to hold off listening without subtitles for now and instead return to [moving on](../Mining/step 7 move on.md#move-on) and [reading more](types of immersion.md#solution-just-read-more) and subtitled listening immersion.
 
@@ -191,9 +205,14 @@ For example for reading:
 
     - Such that you can [check your understanding and see what you can understand for yourself](../Mining/step 2 comprehension check.md#check-your-understanding-and-see-what-you-can-understand-for-yourself).
 
+    - basically something you can [sustain](#sustainability-is-only-the-meaningful-metric).
+
 3. If not then find and repeat the process with something else.
 
 If you think you found something that meets these criteria, then keep in mind [enjoyment as a metric for comprehension](core concepts of immersion.md#enjoyment-as-a-metric-for-comprehension) and start [the mining process](../Mining/step 1 read the sentence.md).
+
+!!! success "What to expect"
+    Finding something to immerse in is a process by trial and error. Expect to drop media, switch mid way through to something different, starting something but never coming back to it. Don't feel bad about doing this and rather feel good about yourself that you are not immersing in something you cannot sustain i.e forcing yourself. As long as you keep immersing you're good. But remember to improve you have to challenge yourself.
 
 ### Reading faster
 
@@ -205,7 +224,7 @@ Don't focus on reading speed, focus on comprehension. Reading speed reflects how
 
 Either they are comfortable at their level meaning they reached their goal. For example they want to be able to read novels in their target language and reached a level where they can read them without needing a dictionary. So they are satisfied and don't need to challenge themselves with listening, harder reading material or pronunciation, because that wasn't their goal in the first place.
 
-On the other hand people plateau because they immerse with media that is similar in difficult, thus not challenging themselves. Immersing with media that is easy for you is not necessarily bad for you, it's actually good to solidify your knowledge and everything you know up until now. But if your goal is to learn and actually make progress i.e learn more words, grammar, get better at listening you need to challenge yourself. See [how to improve](#how-to-improve).
+On the other hand people plateau because they immerse with media that is similar in difficulty, thus not challenging themselves. Immersing with media that is easy for you is not necessarily bad for you, it's actually good to solidify your knowledge and everything you know up until now. But if your goal is to actually make progress i.e learn more words, grammar, get better at listening you need to [challenge yourself](#how-to-improve).
 
 ---
 
@@ -213,7 +232,7 @@ On the other hand people plateau because they immerse with media that is similar
 
 If you are having fun, then *generally* don't drop whatever you're immersing with. I'm saying generally here because there are times when you might want to switch to something more "efficient". Reference [the tradeoff between enjoyment and efficiency](types of immersion.md#a-weird-analogy)
 
-If you are not having fun with your immersion content, then that means one of two things:
+If you are not having fun with your immersion content, then that can mean one of two things:
 
 1. You comprehend it but it's genuinely uninteresting to you
 
@@ -230,20 +249,28 @@ For reference see [enjoyment as a metric for comprehension](core concepts of imm
 
 ![bookattentionimg](../assets/images/book_fukayomi.png)
 
-The more carefully you break down and fully try to understand **every part** of what you're immersing with before moving on the more you get out of it.
-If you do this you consistently you will progress insanely fast. People who do this usually have outstanding reading skills, passive vocab and listening comprehension, compared to people who just casually read through everything. 
+!!! success "The golden rule"
+
+    The more carefully you break down and fully try to understand **every part** of what you're immersing with before moving on the more you get out of it.
+
+
+If you do this you consistently you will progress insanely fast. People who do this usually have outstanding reading skills, passive vocab and listening comprehension, compared to people who just casually read through everything and are comfortable with just getting the gist. 
 
 Beginners that do this are usually very slow at first, painfully slow actually, breaking down everything to understand each piece before moving on. It's boring at first but eventually the most common words run out, same for grammar. This usually happens after multiple months if you are doing Anki every day and thinking about what you read.
 It's not really natural to analyze every sentence and break it down fully but there are people who reached a high level by following this approach.
 
 This approach would put you more in the problem solving mode in [the mining process](../Mining/step 1 read the sentence.md) meaning you spent more time during the following steps:
-Everything after step 3 (Use Yomitan to look up what you don't know).
-Step 4 (Reread the sentence or the part where that word you just looked up appears in and try to understand the sentence).
-Step 6 (Spend more time on the sentence to understand what it's trying to say).
+Everything after:
 
-This is per se not harmful, but rather draining, because you end up spending more time per sentence. If you can motivate yourself through repeatedly doing this then great, but keep in mind [getting just the gist is fine](core concepts of immersion.md#getting-just-the-gist-is-fine). What matters is putting in the cognitive effort that is *trying* to understand as much as you can. How to do that is detailed in [the mining process](../Mining/step 1 read the sentence.md).
+- Step 3 (Use Yomitan to look up what you don't know).
 
-Generally don't get comfortable with reading just *for* the gist. What actually improves your language ability is putting effort into understand whatever you are consuming i.e breaking things down and analyzing it. The difference is in allowing yourself to get the gist sometimes but not make it become the baseline, don't settle for just the gist.
+- Step 4 (Reread the sentence or the part where that word you just looked up appears in and try to understand the sentence).
+
+- Step 6 (Spend more time on the sentence to understand what it's trying to say).
+
+This is per se not harmful, but rather draining, because you end up spending more time per sentence. If you can motivate yourself through repeatedly doing this then great, but keep in mind [getting just the gist is fine if in moderation](core concepts of immersion.md#getting-just-the-gist-is-fine-if-in-moderation). What matters is putting in the cognitive effort that is *trying* to understand as much as you can. How to do that is detailed in [the mining process](../Mining/step 1 read the sentence.md).
+
+Generally **don't get comfortable with reading just *for* the gist.** What actually improves your language ability is putting effort into understand whatever you are consuming i.e breaking things down and analyzing it. The difference is in allowing yourself to get the gist sometimes but not make it become the baseline, **don't settle for just the gist.**
 
 You can *get by* with just the gist always but you'll miss a lot of small details and nuances which are crucial for actually getting the most out of your immersion time. These details only unravel themselves if you don't settle for just the gist but actually pay more attention and break things down. It can be not enjoyable but it's a more straight path to get most out of your immersion time.
 
@@ -251,7 +278,27 @@ You can totally just read casually for the gist and break down things only when 
 
 ### <span style="color: var(--md-typeset-a-color);">Trade of between enjoyment and efficiency</span>
 
-Something you can sustain is important, if you're not enjoying the process then making compromises on efficiency to make it more sustainable and enjoyable for you is always worth it. On the other hand, if you're at a point where you feel very motivated to get better and are willing to make slight compromises on max enjoyment to up efficiency then that's also fine (e.g. there were some points early on like that for me where I'd swap out some non-subbed anime listening for more podcast/audiobook listening, although I stopped doing that after a few months into learning).
+Something you can [sustain](#sustainability-is-only-the-meaningful-metric) is important. If you're not enjoying the process then making compromises on efficiency to make it more sustainable and enjoyable for you is always worth it. 
+
+Using the [TLU model](#total-life-time-utility-model):
+
+- not enjoying the process = high **Cognitive cost**.
+
+- making compromises on efficiency = reducing **Long term utility**.
+
+- make it more sustainable and enjoyable = increasing **Immediate utility** meaning immersing instead in something that is fun to you.
+
+On the other hand, if you're at a point where you feel very motivated to get better and are willing to make slight compromises on max enjoyment to up efficiency then that's also fine.
+
+Using the [TLU model](#total-life-time-utility-model):
+
+- feel very motivated = high motivation, sustainability and energy and low **motivation loss** 
+
+- willing to make slight compromises on max enjoyment to up efficiency = reducing **Immediate utility** meaning immersing instead in something less fun, but having higher **Long term utility**.
+
+!!! note "Small episode from experience"
+    
+    I used to think that [passive listening](#passive-vs-active-listening) was helping me out and really efficient so I would swap sitting down to watch a show for listening to audiobooks of books I was reading while running at the time. Although I stopped doing that after a few weeks.
 
 ---
 
