@@ -28,7 +28,7 @@ Here you don't want to actually step back and ask yourself "How much did I under
 
 #### <span style="color: var(--md-typeset-a-color);">The ambiguity problem</span>
 
-At the beginning most things will be vague since as a beginner you have no idea if the gist is conveyed or not. You basically can't know for sure what you don't know. You most often can't really recognize *everything* you don't know or can break it down enough. To put it more frankly you can't always know whether you understood a sentence completely because you don't have enough knowledge of the target language to check yourself. This is something I refer to as the *ambiguity problem*. There will almost always be a lingering ambiguity in a given sentence you just can't grasp yet.
+At the beginning most things will be vague since as a beginner you have no idea if the gist is conveyed or not. You basically can't know for sure what you don't know. You most often can't really recognize *everything* you don't know or can break it down enough. To put it more frankly you can't always know whether you understood a sentence completely because you don't have enough knowledge of the target language to check yourself. There is always something missed as in the unknown unknowns. This is something I refer to as the *ambiguity problem*. There will almost always be a lingering ambiguity in a given sentence you just can't grasp yet.
 
 To give you an idea how much understanding is enough and what to aim for, here are a few examples:
 

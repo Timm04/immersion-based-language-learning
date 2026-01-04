@@ -280,11 +280,19 @@ Everything after:
 
 - Step 6 (Spend more time on the sentence to understand what it's trying to say).
 
-This is per se not harmful, but rather draining, because you end up spending more time per sentence. If you can motivate yourself through repeatedly doing this then great, but keep in mind [getting just the gist is fine if in moderation](core concepts of immersion.md#getting-just-the-gist-is-fine-if-in-moderation). What matters is putting in the cognitive effort that is *trying* to understand as much as you can. How to do that is detailed in [the mining process](../Mining/step 1 read the sentence.md).
+This is per se not harmful, but rather draining, because you end up spending more time per sentence. If you can motivate yourself through repeatedly doing this then great, but keep in mind [getting just the gist is fine if in moderation](core concepts of immersion.md#getting-just-the-gist-is-fine-if-in-moderation). 
 
-Generally **don't get comfortable with reading just *for* the gist.** What actually improves your language ability is putting effort into understand whatever you are consuming i.e breaking things down and analyzing it. The difference is in allowing yourself to get the gist sometimes but not make it become the baseline, **don't settle for just the gist.**
+For the people who would like to hyper analyze every sentence, *which is not bad*, I want to remind you of the [ambiguity problem](../Mining/step 2 comprehension check.md#the-ambiguity-problem). There is only so much you can learn from a sentence. You can look up unfamiliar words and analyze sentences, but you'll reach a limit. For this reason, after [spending time](../Mining/step%206%20spending%20more%20time.md#how-much-time-to-spend-per-sentence) (at max 3 minutes) on a sentence be it by hyper analyzing everything, *if you can manage that*, or by reading more casually but not settling for just the gist, you move on to the next sentence. More actually massive exposure (reading a ton) trains what matters *more* for language acquisition; intuition and pattern recognition. You will learn way more by reading more (after you spent your time on a sentence). 
 
-You can *get by* with just the gist always but you'll miss a lot of small details and nuances which are crucial for actually getting the most out of your immersion time. These details only unravel themselves if you don't settle for just the gist but actually pay more attention and break things down. It can be not enjoyable but it's a more straight path to get most out of your immersion time.
+[:octicons-arrow-right-24: Flowing when immersing](mining notes.md#flowing-while-immersing)
+
+[:octicons-arrow-right-24: The "magic" in immersion](core concepts of immersion.md#the-magic-in-immersion)
+
+Reading more but putting in the cognitive effort that is *trying* to understand as much as you can. How to do that is detailed in [the mining process](../Mining/step 1 read the sentence.md).
+
+Generally **don't get comfortable with reading just *for* the gist.** What actually improves your language ability is putting effort into understand whatever you are consuming i.e breaking things down and analyzing it put to a ["time limit"](../Mining/step%206%20spending%20more%20time.md#how-much-time-to-spend-per-sentence). The difference is in allowing yourself to get the gist sometimes but not make it become the baseline, **don't settle for just the gist.**
+
+You can *get by* with just the gist but you'll miss a lot of small details and nuances which are crucial for actually getting the most out of your immersion time. These details only unravel themselves if you don't settle for just the gist but actually pay more attention and break things down. These details are sometimes the difference between understanding what's going on and not understanding. It can be not enjoyable but it's a more straight path to get most out of your immersion time.
 
 You can totally just read casually for the gist and break down things only when you really don't understand things, but if you want to get good fast then consistent, deep and focused reading is the way.
 
