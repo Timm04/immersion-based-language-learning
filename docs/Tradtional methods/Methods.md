@@ -53,7 +53,8 @@ Learning a language is more nuanced and intricate; being able to conjugate and u
 That system makes sense in an education system, not in a language acquisition framework.
 This plays part in a phenomenon where students after graduation can't really functionally use the language anymore they learned in school. They can pass exams using the language that was taught to them in school but are unable to retain or use them fluently. We call this **foreign language attrition**.
 
-There is a good chance you have experienced the result of this education system as well. I know I have. I had English since elementary school and had to eventually pick my second foreign language in middle school. The flavor of chaos I picked was French; four years long. And I wasn't slacking either: I was studious, participated in the classroom, handed in all of my homeworks, held presentations and even powered through the entire children book assigned to us! Yet, after graduation, all my years of doing grammar drills, memorizing all the vocab and participating in the speaking tasks magically vanished just like they have been doing after every exam. It's as if my brain was programmed to "Pass the exam, then we'll be deleting that."
+!!! note "An episode from my school experience"
+    There is a good chance you have experienced the result of this education system as well. I know I have. I had English since elementary school and had to eventually pick my second foreign language in middle school. The flavor of chaos I picked was French; four years long. And I wasn't slacking either: I was studious, participated in the classroom, handed in all of my homeworks, held presentations and even powered through the entire children book assigned to us! Yet, after graduation, all my years of doing grammar drills, memorizing all the vocab and participating in the speaking tasks magically vanished just like they have been doing after every exam. It's as if my brain was programmed to "Pass the exam, then we'll be deleting that."
 
 ---
 
@@ -84,7 +85,9 @@ The time it takes to reach your goal is also important. Optimally we want to rea
 I mention enjoyment here as an aspect because in general if you have fun doing something you will have a significantly easier time doing it.
 
 Based on the arguments I presented so far we can safely conclude that traditional methods have their place in education teaching students about foreign languages. But as outlined it can result in students not actually being able to be proficient at that language. For me it wasn’t until I stepped outside the classroom and its language-learning textbooks that I discovered personal interests, through watching YouTube or playing video games, where I truly began to use the language and started becoming fluent. 
+
 The traditional method is language education first and **language acquisition** second. 
+
 Most of the pros I mentioned only manifest themselves if one has the motivation to learn a foreign language. Not a superficial interest but a real **personal** goal they can strive towards and be motivated by. No students wants to spent hours every day for years discussing and reading about school and migration problems, cultural differences or how a political system elsewhere work in a foreign language. One would get way more motivated if they could actually engage with **material/media important to them**. 
 
 ---
