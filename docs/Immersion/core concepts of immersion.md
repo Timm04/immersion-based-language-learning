@@ -115,21 +115,22 @@ For example with vocabulary, let’s say one time you encounter a word in a cont
 
 This is what learners who do immersion describe sometimes as magic. Even though you didn't consciously sit down to learn something specific for example a grammar pattern, you have developed a feeling or rather intuition how it’s used and what it means, without knowing any rules why it does the things it does. And this is basically the same feeling we have with our native language, we might not be able to explain why something is right but we *feel* it’s right we know it sounds or looks right. 
 
-Take this sentence, for example: 
+!!! example "Example: The proposal didn’t end up being acted upon"
+    Now try identifying all the word classes.
 
-“The proposal didn’t end up being acted upon.”
+    If you immediately recognized that this sentence contains a non-finite progressive passive formed with the "act upon" + preposition construction, combined with the strictly intransitive main predicate "end up ~" and the negated past-tense auxiliary "didn’t," then awesome, good job! But most native speakers couldn’t break it down like that.
+    Does that mean they "don’t really know" English? Of course not. They don’t need to know this and be able to recall grammatical labels or analyze structures on the spot. They can use the language naturally and effortlessly because the patterns are already wired into their intuition through immersion. They just know it **intuitively**.
 
-Now try identifying all the word classes.
-If you immediately recognized that this sentence contains a non-finite progressive passive formed with the “act upon” + preposition construction, combined with the strictly intransitive main predicate “end up ~” and the negated past-tense auxiliary “didn’t,” then awesome, good job! But most native speakers couldn’t break it down like that.
-Does that mean they “don’t really know” English? Of course not. They don’t need to know this and be able to recall grammatical labels or analyze structures on the spot. They can use the language naturally and effortlessly because the patterns are already wired into their intuition through immersion. They just know it **intuitively**.
 
-That's why we actually having a bit more ambiguity is actually not something hurtful, but works in our favour. It only becomes hurtful when **you don't put in effort to understand every sentence you can** but more on this in section [Whitenoising](mining notes.md#whitenoising).
+That's why we actually having a bit more ambiguity is actually not something hurtful, but works in our favour. It only becomes hurtful when **you don't put in effort to understand every sentence as much as you can** but more on this in section [Whitenoising](mining notes.md#whitenoising).
 
-The umbrella term for this is us training our **pattern recognition skills** which builds fluency. Acquisition of a language happens through immersion and seeing things like words hundreds amount of times in different contexts to grasp its full nuanced meaning.
+The umbrella term for this is us training our **pattern recognition skills** which builds fluency. 
+
+!!! success "How to acquire a language intuitively"
+
+    Acquisition of a language happens through tons of comprehensible immersion (exposure to the language) and seeing things like words and grammar hundreds amount of times in different contexts to grasp its full nuanced meaning.
 
 Think of it like transfer knowledge from school where you do different exercises. If you were to do all the same type of questions (i+1) then you would have trouble using your knowledge and transfer it to the exam (real world) where there could be different questions types. 
-
-The are more reasons why „i+1“ is not really achievable. If you are interested then refer to # Not knowing what you don’t know.
 
 ---
 
