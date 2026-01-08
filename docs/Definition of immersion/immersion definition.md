@@ -1,3 +1,23 @@
+!!! tldr ""
+
+    1. You need consistent exposure to the language to build fluency and intuition like the native approach. That exposure has to be comprehensible enough, enjoyable and somewhat challenging.
+
+    2. "Comprehensible enough and enjoyable": Two factors that motivate and make your time learning the language easier. They're are really important!
+
+    3. Immersion is the improved version of the native approach: You acquire fluency faster and you have fun while doing it
+
+    4. Immersion: consuming content made by natives for natives that is comprehensible enough, enjoyable and somewhat challenging. Immersion has to be done consistently!.
+
+Further reading:
+
+[1. :octicons-arrow-right-24: What Immersion tries to achieve](#what-immersion-tries-to-achieve)
+
+[2. :octicons-arrow-right-24: The additional condition](#the-additional-condition)
+
+[3. 4. :octicons-arrow-right-24: Evaluating the improved native approach - Immersion](#evaluating-the-improved-native-approach-immersion)
+
+[5. :octicons-arrow-right-24: Key takeaways](#key-takeaways)
+
 ## What Immersion tries to achieve
 
 Immersion is by design aiming to make you reach native level in your target language. By consistently following it you will pick up the language as well as nuances in grammar, word usage, pronunciation and readings without you having realized you learned them consciously. Most of the time while immersing you don't realize or feel like you are actually learning something, but you actually are, albeit unconsciously. You probably heard of the brain being referred to as a sponge and we are capitalizing on that with immersion, where we consistently expose ourself to the language in large comprehensible amounts for our brain to acquire the language naturally. 
@@ -14,7 +34,7 @@ When doing immersion it cannot be understated that what ever you're immersing wi
 
 Choosing immersion material that is also enjoyable for you **makes your time learning the target language easier**. It shifts your mind from "I have to read this book to learn my target language" to "I want to sit down and read this book because its interesting." Without it, the learning process will feel forced and dragged which should be avoided at all cost. The moment when something is not interesting to you, you should stop bothering with it and switch to something different to immerse in. That is because enjoyment keeps you going, without you would be forcing yourself which is not the ideal mind space to be in when learning any skill. Somebody that enjoys what they are doing will outperform anyone that is doing the same but with no enjoyment. Ideally enjoyment should motivate you.
 
-These two factors make up the bottom line when choosing what to immerse in. How you actually choose immersion material and in what proportions these two factors should inter play will be discussed later on in # How to choose what to immerse in. For now I want you to take away the following.
+These two factors make up the bottom line when choosing what to immerse in. How you [actually choose immersion material](../Immersion/roadmap.md) and in what [proportions these two factors should inter play](../Immersion/core concepts of immersion.md#the-ratio) will be discussed in later sections . For now I want you to take away the following.
 
 ---
 

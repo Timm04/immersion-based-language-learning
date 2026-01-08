@@ -3,9 +3,13 @@
 !!! tldr ""
 
     1. Start with something familiar. For listening use sub-titled material in your target language at the beginning.
+
     2. Keep a 70% reading / 30% listening split.
+
     3. Prioritize enjoyment: If you dread todays' main immersion activity then change it so you can sustain yourself doing it.
+
     4. Analyze and break apart *most* of the time but move on after a max of 3 minutes per sentence.
+    
     5. Reflect on difficulty every week: If you want to improve (learn more words, grammar) then challenge yourself.
 
 Further reading:

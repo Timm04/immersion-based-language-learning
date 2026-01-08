@@ -2,15 +2,15 @@
 
 !!! tldr ""
 
-    - Traditional method: grammar drills, exams first, one size fits all pace and approach.
+    1. Traditional method: grammar drills, exams first, one size fits all pace and approach.
 
-    - More exam orientated than language learning. Terrible for long term language skills like graduates not actually using the language.
+    2. More exam orientated than language learning. Terrible for long term language skills like graduates not actually using the language.
 
-    - Pros: teacher, classmates, clear milestones (exams)
+    3. Pros: teacher, classmates, clear milestones (exams)
 
-    - Cons: most often forced learning, personally uninteresting texts, fixed learning pace, "inert" knowledge.
+    4. Cons: most often forced learning, personally uninteresting texts, fixed learning pace, "inert" knowledge.
 
-    - Bottom line: If your goal is a high level then leave boring texts books behind and exercises behind and jump into native content for natives you care about.
+    5. Bottom line: If your goal is a high level then leave boring texts books behind and exercises behind and jump into native content for natives you care about.
 
 Further reading:
 

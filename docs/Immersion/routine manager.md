@@ -1,16 +1,16 @@
 !!! tldr ""
 
-    - Don't envy others. Don't be harsh on yourself. Doubt is normal, immerse regardless that's when strength grows.
+    1. Don't envy others. Don't be harsh on yourself. Doubt is normal, immerse regardless that's when strength grows.
 
-    - Set your own numbers and goals (track a week → divide by 7 for your daily average, keep aiming higher); ignore everyone else’s numbers.
+    2. Set your own numbers and goals (track a week → divide by 7 for your daily average, keep aiming higher); ignore everyone else’s numbers.
 
-    - Anchor your goals with a daily habit ("After I wake up, I do my Anki.")
+    3. Anchor your goals with a daily habit ("After I wake up, I do my Anki.")
 
-    - Break goals down so they are more achievable (e.g. splitting reading sessions into 25 minutes each)
+    4. Break goals down so they are more achievable (e.g. splitting reading sessions into 25 minutes each)
 
-    - See failure as a learning opportunity to adjust and learn from. Failure is part of the process.
+    5. See failure as a learning opportunity to adjust and learn from. Failure is part of the process.
 
-    - Squeeze time in between mundane tasks when busy.
+    6. Squeeze time in between mundane tasks when busy.
 
 Further reading:
 
