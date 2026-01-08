@@ -1,5 +1,37 @@
 # Core concepts of Immersion
 
+!!! tldr ""
+
+    1. Start immersion when you feel ready. (You roughly know around +1000-1500 words and have a basic understanding of grammar and sentence structure).
+
+    2. Choose native media that is "comprehensible enough": Content that is *slightly* above your level = sentences where you don't know at least one thing, allowing you to use the context and sentence itself (=your existing knowledge and comprehension) to infer the unknown piece of information (=something new you learn like a word) in the same sentence. These sentences are called "i+1".
+
+    3. "i+1" sentences (a sentence where you don't know exactly one thing) are rare. Sentences that are "i+1-3" (=a sentence with 1 to 3 unknown pieces of information, meaning they have more ambiguity) are more common in real life.
+
+    3. Effort over 100% comprehension: Accept that at the beginning you can't understand everything every time, **but put effort into understanding every sentence and pay attention as much as you can.**
+
+    4. By consistently consuming (=immersing in) comprehensible ("i+1-3") native content you will acquire the language (grammar, word usages, nuances etc.) intuitively like a native.
+
+    5. Choose native content that you enjoy and interests you. Let your interests guide you. Having fun is the biggest motivator!
+
+    6. Aim for roughly 85% enjoyment and 15% challenge in native content. Enjoyment is your comprehension meter.
+
+
+
+Further reading:
+
+[1. :octicons-arrow-right-24: When to start Immersion](#when-to-start-immersion)
+
+[2. :octicons-arrow-right-24: What "comprehensible enough" means - i+1](#what-comprehensible-enough-means-i1)
+
+[3. :octicons-arrow-right-24: How i+1 is a motivating ideal but not reality](#how-i1-is-a-motivating-ideal-but-not-reality)
+
+[4. :octicons-arrow-right-24: The „magic“ in immersion](#the-magic-in-immersion)
+
+[5. :octicons-arrow-right-24: What to look for in immersion material - Importance of enjoyment](#what-to-look-for-in-immersion-material-importance-of-enjoyment)
+
+[6. :octicons-arrow-right-24: Enjoyment as a metric for comprehension](#enjoyment-as-a-metric-for-comprehension) and [the ratio](#the-ratio)
+
 ## When to start Immersion
 
 Because of this guide’s general approach, I can’t pinpoint a specific level at which you can or should start immersion. Even for a specific language, it is still hard to identify and define a level of proficiency that is best suited for diving into easy native material. As such, I can only say: **You start when you feel ready**.
