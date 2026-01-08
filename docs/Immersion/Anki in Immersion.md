@@ -53,9 +53,7 @@ Immerse.
 
 ## I finished my reviews in Anki should I do a custom study and do more reviews for the day?
 
-I strongly advice against doing a custom study in Anki. 
-
-It really messes with Anki's SRS system and can even affect your reviews. Let's say a card has a 100 day interval and would have been due to review in 99 days. If you were to review it with a custom study today, Anki would forget the 100 day interval and schedule the card earlier than it should be regardless whether you got it right or wrong.
+I advice against doing a custom study in Anki. 
 
 The time you spend doing a custom study is better spent immersing and learning new things.
 
