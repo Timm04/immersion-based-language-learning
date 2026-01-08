@@ -1,6 +1,6 @@
 !!! tldr ""
 
-    1. You don't have to be smart or have a degree to be able to learn a language. This whole thing is not *that* complicated.
+    1. You don't have to be smart or have a degree to be able to learn a language. This whole thing is not *that* complicated. Anyone can do it.
 
     2. The method "immersion" is a powerful method allowing you to acquire a language quickly and efficiently like no other method.
 
