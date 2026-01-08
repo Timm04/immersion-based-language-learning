@@ -6,11 +6,13 @@
 
     2. Keep a 70% reading / 30% listening split.
 
-    3. Prioritize enjoyment: If you dread todays' main immersion activity then change it so you can sustain yourself doing it.
+    3. Immersing is both the reward and reason why you learn the language. Ultimately you want to consume content (immerse) in your target language so don't treat immersion as merely a means to an end.
 
-    4. Analyze and break apart *most* of the time but move on after a max of 3 minutes per sentence.
-    
-    5. Reflect on difficulty every week: If you want to improve (learn more words, grammar) then challenge yourself.
+    4. Prioritize sustainability: If you dread todays' main immersion activity then change the material so you can sustain yourself doing it. Think about whether what you are currently doing with the language will make you more likely to keep learning the language in the future.
+
+    5. Analyze and break apart *most* of the time but move on after a max of 3 minutes per sentence.
+
+    6. Reflect on difficulty every week: If you want to improve (learn more words, grammar) then challenge yourself.
 
 Further reading:
 
@@ -18,11 +20,13 @@ Further reading:
 
 [2. :octicons-arrow-right-24: How much should you be reading and listening](#how-much-should-you-be-reading-and-listening)
 
-[3. :octicons-arrow-right-24: How to keep going - Enjoyment, Efficiency and "Optimal"](#how-to-keep-going-enjoyment-efficiency-and-optimal)
+[3. :octicons-arrow-right-24: Input is the reward not the means](#input-is-the-reward-not-the-means)
 
-[4. :octicons-arrow-right-24: How hard should you pay attention when immersing](#how-hard-should-you-pay-attention-when-immersing)
+[4. :octicons-arrow-right-24: Sustainability is only the meaningful metric](#sustainability-is-only-the-meaningful-metric) and [How to practice sustainability](#how-to-practice-sustainability)
 
-[5. :octicons-arrow-right-24: How to improve](#how-to-improve)
+[5. :octicons-arrow-right-24: How hard should you pay attention when immersing](#how-hard-should-you-pay-attention-when-immersing)
+
+[6. :octicons-arrow-right-24: How to improve](#how-to-improve)
 
 ---
 

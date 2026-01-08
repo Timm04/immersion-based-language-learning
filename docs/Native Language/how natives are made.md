@@ -1,14 +1,14 @@
 !!! tldr ""
 
-    1. Native approach: Surrounds you with the language in it's purest and rawest form (e.x native content made for natives).
+    1. Native approach: Surrounds you with the language in it's purest and rawest form (e.x content made by natives for natives).
 
-    2. Pros: Fluency (intuition) through tons of exposure. Grammar and nuances all ingrained into your brain.
+    2. Pros: Fluency (intuition) through tons of exposure. Grammar and nuances all ingrained into your brain. (e.x how you learned your native language)
 
     3. Language is acquired through understanding messages. Exposure to language has to be comprehensible enough.
 
     4. Cons: takes too long, often high ambiguity and low comprehension like during babyhood. (analogy: being thrown into the deep end)
 
-    5. Immersion approach: Follow the native approach but have it be comprehensible enough meaning its enjoyable and somewhat challenging. (analogy: ease your way into a pool with floaties gradually removing them as you build proficiency)
+    5. Immersion approach: Follow the native approach but make it comprehensible enough meaning it's enjoyable and somewhat challenging. (analogy: ease your way into a pool with floaties gradually removing them as you build proficiency)
 
 Further reading:
 
