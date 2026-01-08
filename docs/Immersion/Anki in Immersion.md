@@ -95,7 +95,7 @@ At that point you can pick up words perfectly fine like you can do with your nat
 ## How many new cards should you do
 
 !!! success "General rule of thumb"
-    As many as your retention allows you to. 
+    As many as your retention allows you to. (Using the default Anki SRS algorithm)
     
     - Aim for at least 80% retention, anything above 90% is optimal. 
     
