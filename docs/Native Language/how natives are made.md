@@ -1,3 +1,23 @@
+!!! tldr ""
+
+    - Native approach: Surrounds you with the language in it's purest and rawest form (e.x native content made for natives).
+
+    - Pros: Fluency (intuition) through tons of exposure. Grammar and nuances all ingrained into your brain.
+
+    - Language is acquired through understanding messages. Exposure to language has to be comprehensible enough.
+
+    - Cons: takes too long, often high ambiguity and low comprehension like during babyhood. (analogy: being thrown into the deep end)
+
+    - Immersion approach: Follow the native approach but have it be comprehensible enough meaning its enjoyable and somewhat challenging. (analogy: ease your way into a pool with floaties gradually removing them as you build proficiency)
+
+Further reading:
+
+[1. 2. :octicons-arrow-right-24: How natives acquire their language](#how-natives-acquire-their-language)
+
+[3. :octicons-arrow-right-24: Improving the native approach](#improving-the-native-approach)
+
+[4. 5. :octicons-arrow-right-24: Distinction between the native approach and immersion](#distinction-between-the-native-approach-and-immersion)
+
 ## Learning like a native but smarter
 
 In the previous section, we dissected the [the traditional, classroom based method](../Tradtional methods/Methods.md). We concluded that while it has it's benefits speaking from a structure and social perspective, it's inclined to prioritize language *education* (passing exams, learning about culture and political system) over a more efficient language *acquisition*. It can lack expose to real native content, motivation and thus often leading to foreign language attrition.
